@@ -1,0 +1,2 @@
+(this["webpackJsonpnode-monitor"]=this["webpackJsonpnode-monitor"]||[]).push([[8],{108:function(t,n,e){"use strict";e.r(n),e.d(n,"default",(function(){return f}));var o=e(0),u=e.n(o),c=e(6),r=e(74),i=e(2),s=function(){var t=Object(c.f)();return u.a.useEffect((function(){t.push(r.route)}),[]),Object(i.jsx)("div",{})},f=Object(o.memo)(s)}}]);
+//# sourceMappingURL=8.2dbf6505.chunk.js.map
